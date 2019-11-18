@@ -1,0 +1,6 @@
+framework module Pods_DnDUITests {
+  umbrella header "Pods-DnDUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
